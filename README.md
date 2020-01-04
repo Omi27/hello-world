@@ -1,3 +1,5 @@
 # hello-world
-my first repository.
-I'm doing this only because the tutorial told me to do so.
+
+Hi all!
+
+Re: Zero kara hajimeru isekai seikatsu !!! after a long time.
