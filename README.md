@@ -1,4 +1,3 @@
 # hello-world
-my first repository
-Yo !!
-JayMan here. I'm doing this only because the tutorial says to do so -_-
+my first repository.
+I'm doing this only because the tutorial says to do so.
